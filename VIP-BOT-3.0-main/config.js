@@ -27,11 +27,6 @@ global.sessions = 'VipBot'
 global.jadi = 'VipBots'
 global.yukiJadibts = true
 
-global.namecanal = '𝐕𝐈𝐏 𝐔𝐍𝐈𝐕𝐄𝐑𝐒3 👑✅'
-global.idcanal = '120363419404216418@newsletter'
-global.idcanal2 = '120363419404216418@newsletter'
-global.canal = 'https://whatsapp.com/channel/0029Vb8NZFJ002SzGXJK5W3X'
-global.canalreg = '120363419404216418@newsletter'
 
 global.ch = {
   ch1: '120363419404216418@newsletter'
