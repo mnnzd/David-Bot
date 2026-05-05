@@ -16,7 +16,7 @@ global.namebot = '𝐕𝐈𝐏 𝐁𝐎𝐓 🗡️'
 global.botname = '𝐕𝐈𝐏 𝐁𝐎𝐓 🗡️'
 global.banner = 'https://files.catbox.moe/28rxrs.jpg'
 global.packname = '𝐕𝐈𝐏 𝐁𝐎𝐓 🗡️'
-global.author = '© 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝔍𝒖𝒂𝒏'
+global.author = '©𝐕𝐈𝐏 𝐁𝐎𝐓'
 global.moneda = 'MayCoins'
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.16'
@@ -27,10 +27,10 @@ global.sessions = 'VipBot'
 global.jadi = 'VipBots'
 global.yukiJadibts = true
 
-global.namecanal = 'ꘓ ✧ 𝖩𝗎𝖺𝗇 𝖡𝗈𝗍𝗌 ┆𝖮𝖿𝗂𝖼𝗂𝖺𝗅 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 ❖ 🍷 ꘔ'
+global.namecanal = '𝐕𝐈𝐏 𝐔𝐍𝐈𝐕𝐄𝐑𝐒3 👑✅'
 global.idcanal = '120363419404216418@newsletter'
 global.idcanal2 = '120363419404216418@newsletter'
-global.canal = 'https://whatsapp.com/channel/0029VbARAwbEgGfOsCN1T10V'
+global.canal = 'https://whatsapp.com/channel/0029Vb8NZFJ002SzGXJK5W3X'
 global.canalreg = '120363419404216418@newsletter'
 
 global.ch = {
