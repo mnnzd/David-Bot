@@ -1,15 +1,13 @@
 <!-- Banner -->
 <h1 align="center">
-  <img src="https://files.catbox.moe/gx1ipj.jpg" width="700" alt="𝐕𝐈𝐏 𝐁𝐎𝐓"/>
+  <img src="https://api.dix.lat/media2/1777965748931.jpg" width="700" alt="𝐕𝐈𝐏 𝐁𝐎𝐓"/>
   <br>
-  🗡️ 𝐕𝐈𝐏 𝐁𝐎𝐓 🗡️
+  𝐕𝐈𝐏 𝐁𝐎𝐓🗡️
 </h1>
 
-# 𝑽𝑰𝑷 𝑩𝑶𝑻
-
+# 𝐕𝐈𝐏 𝐁𝐎𝐓
 ¡Bienvenido a 𝑽𝑰𝑷 𝑩𝑶𝑻!
 
-🔪 𝐁𝐎𝐓 𝐏𝐑𝐄𝐌𝐈𝐔𝐌 𝐃𝐄 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 🔪
 
 ╔════🔪════╗
    🔪 𝐕 𝐈 𝐏  -  𝐁 𝐎 𝐓 🔪
